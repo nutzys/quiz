@@ -1,0 +1,26 @@
+html {
+
+    width: 100%;
+    height: 100%;
+    background-color: orange;
+
+}
+
+#container {
+
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 5px solid black;
+    padding: 25px;  
+    width: fit-content;
+    background-color: silver;
+
+}
+
+#btns {
+
+    text-align: center;
+
+}
